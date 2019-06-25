@@ -1,16 +1,6 @@
----
-home: true
-actionText: Start →
-actionLink: /docs/guide
-features:
-- title: UI Just
-  details: UI Just UI， UI 只做 UI 该做的事情
-- title: Logic Only
-  details: Logic Only Logic， 逻辑只做逻辑相关的事情
-footer: MIT Licensed | Copyright © 2019-present YFE-TEAM
----
-
 # NU-system
+
+[HomePage](https://nu-system.github.io/)
 
 No UI 组件库系统 nu-system，是一个 推崇 UI 和 Logic 完全分离的组件系统。
 
